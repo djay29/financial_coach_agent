@@ -3,5 +3,7 @@
 .env
 *.txt
 !req.txt
-
+.~lock.Acct Statement_7987_27112025_20.25.17.xls#
 venv/
+logic/__pycache__
+*.json
