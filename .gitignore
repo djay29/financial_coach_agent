@@ -1,0 +1,7 @@
+*.xls
+*.xlsx
+.env
+*.txt
+!req.txt
+
+venv/
